@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
